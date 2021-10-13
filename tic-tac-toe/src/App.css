@@ -1,0 +1,23 @@
+body{
+  background:rgb(50, 176, 254) ;
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  font-size: 10rem;
+  text-align: center;
+  background: white;
+}
+
+.gameboard {
+  display: flex;
+  width: 620px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
